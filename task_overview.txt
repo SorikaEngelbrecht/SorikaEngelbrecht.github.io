@@ -1,0 +1,8 @@
+TASKS STATS 2025-10-09
+Total tasks:		6
+Completed tasks:	3
+Incomplete tasks:	3
+Incomplete(%):		50.0
+Overdue tasks:		2
+Percentage overdue:	33.33
+

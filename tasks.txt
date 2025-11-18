@@ -1,0 +1,6 @@
+admin, Register Users with task_manager.py, Use task_manager.py to add the usernames and passwords for all team members that will be using this program., 10 Oct 2019, 20 Oct 2019, Yes
+admin, Assign initial tasks, Use task_manager.py to assign each team member with appropriate tasks, 10 Oct 2019, 01 Jan 2025, Yes
+Sorika, Task1, Whole day coding, 03 Oct 2025, 22 Jan 2025, Yes
+Anton, Task2, Whole day doctoring, 03 Oct 2025, 23 Nov 2025, No
+Morne, Dentisting, Dentisting all day, 05 Oct 2025, 06 Nov 2025, No
+Sorika, Maak vir my 'n teeshabba, koekie by asb, 09 Oct 2025, 09 Oct 2025, No
